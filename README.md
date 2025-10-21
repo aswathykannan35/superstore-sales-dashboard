@@ -10,7 +10,7 @@ This Power BI dashboard visualizes Superstore sales and profit trends across reg
 ## Files
 - `Superstore Sales Dashboard.pbix` — Power BI file
 - `Superstore Sales Dashboard.pdf` — visual preview
-- `Sample-Superstore.csv` — visual preview
+- `Sample-Superstore.csv` — dataset
 
 ## Tools Used
 - Power BI
